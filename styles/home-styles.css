@@ -44,6 +44,7 @@
 
   .button a {
     padding: 10px 75px;
+    border-radius: 50px;
     text-decoration: none;
     color: #ffffff;
     transition: 0.5s;
