@@ -35,8 +35,6 @@
   .button {
     font-size: 40px;
     font-weight: 600;
-    padding: 10px 75px;
-    border-radius: 50px;
     position: absolute;
     bottom: 75px;
     left: 30px;
@@ -45,14 +43,16 @@
   }
 
   .button a {
+    padding: 10px 75px;
     text-decoration: none;
     color: #ffffff;
     transition: 0.5s;
   }
 
   .button a:hover {
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 125px;
+    padding-right: 125px;
+    border-radius: 50px;
   }
 }
 
