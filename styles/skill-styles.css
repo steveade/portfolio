@@ -1,0 +1,18 @@
+.skill-images img {
+  width: 150px;
+  height: 150px;
+}
+
+.skill-images img:last-child {
+  width: 100px;
+  height: 139px;
+  padding-bottom: 5px;
+  position: relative;
+  left: 30px;
+  bottom: 2px;
+}
+
+.skill-images {
+  position: relative;
+  top: 100px;
+}
