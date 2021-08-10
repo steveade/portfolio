@@ -1,0 +1,20 @@
+footer {
+  background: #000;
+  position: absolute;
+  height: 60px;
+  width: 100%;
+  bottom: 0;
+  padding: 10px;
+}
+
+footer img {
+  width: 40px;
+  height: 40px;
+  margin: 0 10px;
+}
+
+.icon-set {
+  position: relative;
+  left: 640px;
+  width: 400px;
+}
